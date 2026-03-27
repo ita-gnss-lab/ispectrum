@@ -43,9 +43,3 @@ https://doi.org/10.1002/2015RS005903
 
 This directory includes an explicit copyright and redistribution notice for the
 bundled Ooura DE-quadrature package in `README-OOURA.TXT`.
-
-This copy does not appear to include a separate standalone license file for the
-`ispectrum` program authored by Charles Carrano. If you intend to republish,
-relicense, or redistribute this code beyond preserving it as a research
-artifact, verify the applicable terms with the original author or original
-distribution source.
