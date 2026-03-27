@@ -5,7 +5,7 @@ This repository contains a vendored copy of `ispectrum` version 1.1.
 ## Provenance and ownership
 
 The `ispectrum` program itself is attributed in the bundled source and
-documentation to Charles Carrano of Boston College.
+documentation to Charles Carrano of Boston College, obtained from https://github.com/cu-sense-lab/gnss-scintillation-simulator/blob/master/matlab/Ispectrum/ispectrum-v1.1.zip.
 
 The main bundled references are:
 
